@@ -4,7 +4,7 @@
 
 > This framework is designed for flexibility, reproducibility, across modalities and neuroscientific fields. 
 
-For a full application see [*Eickhoff et al. (2025), bioRxiv*](https://www.biorxiv.org/content/10.1101/2025.05.12.653426v1), 
+For a full application see [*Eickhoff et al. (2025), bioRxiv*](https://www.biorxiv.org/content/10.1101/2025.05.12.653426v1).   
 A publication for a in depth explanation of the pipeline flow and algorithms used will follow soon. For now, please cite the application paper (Eickhoff et al. (2025), *bioRxiv*) when using the code. 
 
 ## Test Data for pRFtime 
